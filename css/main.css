@@ -1,0 +1,12 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+
+.example {
+  font-family: sans-serif;
+  padding: 50px;
+}
+
+.example p {
+  line-height: 1.6;
+}
